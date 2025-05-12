@@ -1,0 +1,20 @@
+## Visual Studio временные файлы
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.sdf
+*.suo
+*.user
+*.aps
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.obj
+*.idb
+*.opendb
+
+## Исключения
+!*.rc
+!*.ico
+!*.bmp
